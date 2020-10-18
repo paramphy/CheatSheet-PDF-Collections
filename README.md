@@ -1,4 +1,4 @@
-# Collections of Shortcut-keys, Cheat-sheets
+# Collections of Shortcut-keys, Cheat-sheets and quick References
 ## Collection of Cheat-sheets
 ### Git
 - [Git](cheatsheet/markdown-cheatsheet-online.pdf)
