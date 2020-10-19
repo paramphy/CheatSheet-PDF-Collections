@@ -15,5 +15,15 @@
 - [Markdown](cheatsheet/markdown-cheatsheet-online.pdf)
 - [Latex](cheatsheet/latexsheet-a4.pdf)
 
+### Raspberry Pi
+- [Top %50 Raspberrypi Commands](cheatsheet/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf)
+
 ## Collection of shortcut-keys pdfs
+### Blender
+- [Blender shortcut keys](Shortcut-key/Blender_shortcut-keys.pdf)
+
+## Collection of quick references
+### Windows
+- [Windows quick references](quick-reference/windows-10-quick-reference.pdf)
+- 
 
