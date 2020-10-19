@@ -1,5 +1,5 @@
-# Collections of Shortcut-keys, Cheat-sheets and quick References
-## Collection of Cheat-sheets
+# Collections of Shortcut-keys, Cheat-Sheets and Quick References
+## Collection of Cheat-sheets pdfs
 ### Git
 - [Git](cheatsheet/markdown-cheatsheet-online.pdf)
 
@@ -14,3 +14,6 @@
 ### Text Processing
 - [Markdown](cheatsheet/markdown-cheatsheet-online.pdf)
 - [Latex](cheatsheet/latexsheet-a4.pdf)
+
+## Collection of shortcut-keys pdfs
+
