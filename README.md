@@ -3,6 +3,12 @@
 ### Git
 - [Git](cheatsheet/markdown-cheatsheet-online.pdf)
 
+### Python
+- [Pythoncheatsheet](cheatsheet\python_cheat_sheet.pdf)
+- [Python Cheatsheet ipynb](cheatsheet\beginnersPythonCheatSheet.ipynb)
+- [Beginners Python Cheatsheet](cheatsheet\beginners_python_cheat_sheet_pcc_all.pdf)
+- [Awsome Python](cheatsheet\Awesome Python.pdf)
+
 ### Google
 - [Google Classroom](cheatsheet/google-classroom-cheat-sheet.pdf)
 - [Google Sheet](cheatsheet/google-sheets-quick-reference.pdf)
