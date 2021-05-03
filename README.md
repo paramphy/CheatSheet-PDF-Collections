@@ -27,5 +27,7 @@
 ## Collection of quick references
 ### Windows
 - [Windows quick references](quick-reference/windows-10-quick-reference.pdf)
-- 
+
+## Quick Links
+-[Python](https://www.pythoncheatsheet.org/)
 
