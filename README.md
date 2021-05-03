@@ -24,7 +24,7 @@
 ### Raspberry Pi
 - [Top %50 Raspberrypi Commands](cheatsheet/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf)
 ### Database
--[MongoDB Ceatseet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6) 
+- [MongoDB Cheatseet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6) 
 
 ## Collection of shortcut-keys pdfs
 ### Blender
